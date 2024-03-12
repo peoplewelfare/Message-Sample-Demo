@@ -1,0 +1,10 @@
+{
+  "main": "message-sample-demo.raml",
+  "name": "Message-Sample-Demo",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "message-sample-demo",
+  "version": "1.0.0"
+}
