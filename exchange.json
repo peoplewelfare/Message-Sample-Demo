@@ -1,10 +1,11 @@
 {
-  "main": "message-sample-demo.raml",
-  "name": "Message-Sample-Demo",
-  "classifier": "raml",
+  "version": "1.0.0",
   "apiVersion": "v1",
   "descriptorVersion": "1.0.0",
-  "groupId": "200725ff-bd6c-471c-b424-453326f4bf70",
+  "classifier": "raml",
+  "main": "message-sample-demo.raml",
   "assetId": "message-sample-demo",
-  "version": "1.0.0"
+  "groupId": "200725ff-bd6c-471c-b424-453326f4bf70",
+  "organizationId": "200725ff-bd6c-471c-b424-453326f4bf70",
+  "name": "Message-Sample-Demo"
 }
